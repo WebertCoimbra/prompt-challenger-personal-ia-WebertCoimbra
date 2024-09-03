@@ -4,10 +4,10 @@ baseando nas variáveis abaixo:
 
 # Variáveis
 
-{{Biotipos_Corporais}} = 
-{{Dias_Disponíveis_para_Treino}} = 
-{{Tipos_de_Exercícios}} = 
-{{Faixa_etária}} =
+{{Biotipos_Corporais}} = Ectomorfo
+{{Dias_Disponíveis_para_Treino}} = 5 dias 
+{{Tipos_de_Exercícios}} = Peso livre
+{{Faixa_etária}} = Adultos Jovens
 
 # Regras
 
@@ -43,7 +43,7 @@ Regra 4: Faixa Etária
 Na váriavel {{Faixa_etária}}, serão algum desses valores propostos abaixo, dependendo da faixa etária escolhida, utilize exercícios compatíveis com a escolha.
 
 Faixa Etária	                            | Descrição
-- adolescente Adultos Jovens (19 a 29 anos)	| Tem como objetivo hipertrofia muscular, aumento da força e condicionamento físico geral.
+- Adultos Jovens (19 a 29 anos)	| Tem como objetivo hipertrofia muscular, aumento da força e condicionamento físico geral.
 - adulto Adultos (30 a 59 anos)	            | Manutenção da massa muscular, força e saúde geral. Prevenção de doenças crônicas.
 - idoso	Idosos (60 anos ou mais)	        | Manutenção da força, mobilidade e qualidade de vida. Prevenção de quedas e perda de massa muscular.
 
