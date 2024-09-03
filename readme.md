@@ -139,4 +139,12 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+Neste tópico podemos ver nas imagens na prática como o ChatGPT reagiu ao nosso prompt, prompt esse que poderia se utilizado em qualquer IA, tanto como na própria AWS Bedrock.
+![Prompt gerado 1](https://github.com/user-attachments/assets/eddfb3b0-6ef7-421c-808b-2d0f6b80ebc3)
+![prompgeradopt2](https://github.com/user-attachments/assets/56b276aa-4fa9-4eb8-a0d7-1297f8e5b960)
+![prompgeradopt3](https://github.com/user-attachments/assets/2ecb1d8b-13f4-4757-af05-c369f0fe81c6)
+![prompgeradopt4](https://github.com/user-attachments/assets/1c8b9d64-6a92-4581-af88-6d66ee327ec3)
+![prompgeradopt5](https://github.com/user-attachments/assets/967dad4c-7fb6-47e4-a32c-82a6733c67be)
+![prompgeradopt6](https://github.com/user-attachments/assets/0f24d566-e8cd-4aa0-9196-64e6cc020866)
+
 
