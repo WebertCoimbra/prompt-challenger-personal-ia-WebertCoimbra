@@ -33,6 +33,9 @@ O projeto deve ser feito utilizando as boas práticas de prompt engineer.
 
 Este projeto visa criar um assistente de personal trainer automatizado que ajuda a gerar treinos personalizados. O usuário fornecerá informações como o biotipo corporal, a quantidade de dias disponíveis para treinar na semana e o tipo de exercício preferido, e o assistente gerará um plano de treino ideal com base nessas informações.
 
+## 📝 Complementação 
+Como ex-atleta resolvi complementar esse desafio com uma nova informação complementar, e relevante para alcançar um treino ideal e mais refinado, que é a faixa etária desses exercicios.  Como sabemos existem diversos exercícios para todas as faixa etárias, adaptando e tornando os exercícios mais inclusivos e seguro para o aluno, que é o foco final. 
+
 ---
 
 ## 💪 Biotipos Corporais
@@ -68,7 +71,17 @@ A primeira regra para personalizar o treino é determinar o biotipo corporal do 
   </tr>
 </table>
 
+
+
 > **Nota:** Escolha o biotipo que mais se aproxima do seu corpo atual para que o treino seja mais eficiente.
+---
+## 👴👩🏿 Faixa etária 
+Vamos utilizar as informações do Conselho Regional de Educação Física (CONFEF) a respeito da classificão de faixa etária.
+| **Imagem**                                                     | **Faixa etária** | **Particularidades a serem levadas em conta** |
+| -------------------------------------------------------------- | ------------------- | ------------------------------------------ |
+| <img src=".github/assets/calendar.png" width="50" height="50"> | 1 dia               | Treino Full Body                           |
+| <img src=".github/assets/calendar.png" width="50" height="50"> | 3 dias              | Treino ABC                                 |
+| <img src=".github/assets/calendar.png" width="50" height="50"> | 5 dias              | Treino ABCDE                               |
 
 ---
 
