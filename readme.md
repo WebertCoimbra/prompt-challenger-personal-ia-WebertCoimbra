@@ -23,15 +23,21 @@ O projeto deve ser feito utilizando as boas práticas de prompt engineer.
 - [💪 Biotipos Corporais](#-biotipos-corporais)
 - [📅 Dias Disponíveis para Treino](#-dias-disponíveis-para-treino)
 - [🏋️ Tipos de Exercícios](#️-tipos-de-exercícios)
+- [👴🏻 Faixa etária](#️-faixa-etária)
 - [🛠️ Regras de negócio](#️-regras-de-negócio)
 - [📖 Material de Apoio](#-material-de-apoio)
 - [🎯 Prompt de Resposta Proposto](#-prompt-de-resposta-proposto)
-
+  
 ---
 
 ## 📝 Introdução
 
 Este projeto visa criar um assistente de personal trainer automatizado que ajuda a gerar treinos personalizados. O usuário fornecerá informações como o biotipo corporal, a quantidade de dias disponíveis para treinar na semana e o tipo de exercício preferido, e o assistente gerará um plano de treino ideal com base nessas informações.
+
+## 📝 Contribuição
+
+Para contribuir no projeto e tornar a experiência do usuário mais refinado, vamos colocar 3 faixa etária distintas para que os exercícios sejam mais adaptativos, para que não haja riscos de lesões para os clientes das diversas faixa etária, utilizaremos como padrão 
+as informações fornecidas pelo Conselho Federal de Educação Física (CONFEF).
 
 ---
 
@@ -101,13 +107,25 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 | <img src=".github/assets/hiit.png" width="50%" height="50%">     | **HIIT**           | Treinos intervalados de alta intensidade, ótimos para queima de gordura.                                      |
 
 ---
+## 👴🏻 Faixa etária
+
+A quarta regra envolve a escolha do tipo de exercício, de forma que seja adaptativo baseando-se na faixa etária do cliente. Segue alguns exemplos:
+
+| **Imagem**                                                                                                                           | **Faixa Etária**                 | **Descrição**
+| -------------------------------------------------------------------------------------------------------------------------------------| ---------------------------------|----------------------------
+|<img src="https://github.com/user-attachments/assets/5bce1397-b6eb-4564-901d-3b731f0b30b2" alt="adolescente" width="100" height="100">| **Adultos Jovens (19 a 29 anos)**| Tem como objetivo hipertrofia muscular, aumento da força e condicionamento físico geral.
+|<img src="https://github.com/user-attachments/assets/b7dbc18e-7999-4915-b18d-44cf9c8470e1" alt="adulto" widht="100" height="100">     | **Adultos (30 a 59 anos)**       | Manutenção da massa muscular, força e saúde geral. Prevenção de doenças crônicas.
+|<img src="https://github.com/user-attachments/assets/916412a2-46ef-41ed-b3a3-b48517e20970" alt="idoso" widht="100" height="100">     | **Idosos (60 anos ou mais)**      | Manutenção da força, mobilidade e qualidade de vida. Prevenção de quedas e perda de massa muscular.
+       
+
 
 ## 🛠️ Regras de negócio
 
 1. **Identifique seu biotipo corporal** consultando a seção de biotipos.
 2. **Determine quantos dias por semana você pode treinar** e escolha o tipo de treino mais adequado.
 3. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos.
-4. Use o prompt do assistente para gerar um plano de treino personalizado.
+4. **Selecione sua faixa etária** para gerar um treino mais adequado a sua idade.
+5. Use o prompt do assistente para gerar um plano de treino personalizado.
 
 ---
 
@@ -121,3 +139,4 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
